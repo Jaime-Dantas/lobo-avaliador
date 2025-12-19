@@ -1,0 +1,21 @@
+# Arquivos de configuração local
+config.ini
+database_credentials.txt
+doc-dev.md
+.DS_Store
+
+# Arquivos de log
+*.log
+obras.json
+
+# Diretórios de dependências
+venv/
+node_modules/
+
+# Credenciais de Ambiente
+.env
+
+
+## cache python
+__pycache__/
+*.py[cod]
